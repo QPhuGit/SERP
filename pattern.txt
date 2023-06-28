@@ -1,8 +1,8 @@
 VlHyHc
-/<em>(.*?)<\/em>/g
-/<em>|<\/em>/g
-/<div class="yuRUbf"><a\s+href="(.*?)"[^>]+?ping=".*?"><br><h3 class=[^>]*?>(.*?)<\/h3>/g
-/<div class="yuRUbf"><a\s+href="|"[^>]+?ping=".*?"><br><h3 class=[^>]*?>.*?<\/h3>/g
+<em>(.*?)<\/em>
+<em>|<\/em>
+<div class="yuRUbf"><a\s+href="(.*?)"[^>]+?ping=".*?"><br><h3 class=[^>]*?>(.*?)<\/h3>
+<div class="yuRUbf"><a\s+href="|"[^>]+?ping=".*?"><br><h3 class=[^>]*?>.*?<\/h3>
 h2, h3, h4
 div.s75CSd, div[jsname="jIA8B"]
 textarea[class*=gLFyf]
