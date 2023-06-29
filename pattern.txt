@@ -4,7 +4,7 @@ VlHyHc
 <div class="yuRUbf"><a\s+href="(.*?)"[^>]+?ping=".*?"><br><h3 class=[^>]*?>(.*?)<\/h3>
 <div class="yuRUbf"><a\s+href="|"[^>]+?ping=".*?"><br><h3 class=[^>]*?>.*?<\/h3>
 h2, h3, h4
-div.s75CSd, div[jsname="jIA8B"]
+div.s75CSd, div[jsname="bFotad"]
 textarea[class*=gLFyf]
 span.CSkcDe
 g-loading-icon ~ div[jsname="yEVEwb"] span.CSkcDe:not(div[id="botstuff"] span.CSkcDe)
